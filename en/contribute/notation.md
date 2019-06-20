@@ -12,14 +12,14 @@ The following terms, symbols, and decorators are used in text and diagrams throu
 
 Acronym | Expansion
 --- | ---
-AOA | Angle Of Attack. Also named *alpha*.
-AOS | Angle Of Sideslip. Also named *beta*.
-FRD | Coordinate system where the X-axis is pointing towards the Front of the vehicle, the Y-axis is pointing Right and the Z-axis is pointing Down, completing the right-hand rule.
+AOA | Угол атаки. Далее *alpha*.
+AOS | Угол скольжения. Далее *beta*.
+FRD | Система координат, в которой ось X направлена в сторону передней части объекта, ось Y направлена вправо, а ось Z направлена вниз, что соответствует правилу правой руки..
 FW | Fixed-Wing.
-MC | MultiCopter.
+MC | Мультикоптер.
 MPC or MCPC | MultiCopter Position Controller. MPC is also used for Model Predictive Control.
-NED | Coordinate system where the X-axis is pointing towards the true North, the Y-axis is pointing East and the Z-axis is pointing Down, completing the right-hand rule.
-PID | Controller with Proportional, Integral and Derivative actions.
+NED | Система координат, где ось X указывает на истинный север, ось Y указывает на восток, а ось Z указывает вниз, что соответствует правилу правой руки.
+PID | ПИД регултятор.
 
 
 ## Symbols
